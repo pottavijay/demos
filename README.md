@@ -1,4 +1,5 @@
 # WebSocket Voting Demo
+![Demo ScreenShot](docs/demo.jpg). “Demo Screenshot”
 
 This is a real-time voting demo built with:
 
